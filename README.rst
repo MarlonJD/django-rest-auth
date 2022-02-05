@@ -1,6 +1,8 @@
 Welcome to django-rest-auth
 ===========================
 
+WARNING: This is fork of the Tivix's repo for Django 4.0 compatibility. When that repo will ready. I'll remove this fork from PyPI
+
 Repository is unmaintained at the moment (on pause). More info can be found on this issue page: https://github.com/Tivix/django-rest-auth/issues/568
 
 .. image:: https://travis-ci.org/Tivix/django-rest-auth.svg
