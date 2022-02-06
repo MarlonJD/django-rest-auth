@@ -19,6 +19,16 @@ Repository is unmaintained at the moment (on pause). More info can be found on t
 
 Django-rest-auth provides a set of REST API endpoints for Authentication and Registration
 
+## Installation
+
+### PIP
+
+This will install the latest stable release from PyPi.
+
+```
+    pip install django-rest-auth-forked
+```
+
 
 Documentation
 -------------
